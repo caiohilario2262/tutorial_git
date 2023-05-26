@@ -1,0 +1,28 @@
+Funções GIT de importância 
+
+
+
+git init= Iniciar o repositorio
+
+
+git status = Mostra o status dos arquivos que estão para serem versionados 
+	em vermelho -  não foi adiciona a versão.
+	em verde - foi adicionado.
+
+git add "nome do arquivo"= Salvar o progresso/adicionar o arquivo
+git add . = adiciona todos os arquivos de uma vez
+
+
+ENVIAR O ARQUIVO PARA A NUVEM------------------------------------------
+
+git commit -a =
+git commit -m = Deixar uma msg
+
+
+ENVIAR O DESTINO NA NUVEM
+
+git remote add origin "link" = configurar a pasta dentro do github onde o codigo será direcionado 
+
+git push 
+
+
